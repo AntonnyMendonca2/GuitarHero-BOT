@@ -1,0 +1,5 @@
+"verde      X:  660 Y:  957 RGB: (255, 255, 255)"
+"vermelho   X:  805 Y:  955 RGB: ( 13,  14,  13)"
+"amarelo    X:  955 Y:  953 RGB: ( 15,  15,  15)"
+"azul       X: 1116 Y:  956 RGB: ( 14,  14,  14)"
+"laranja    X: 1256 Y:  959 RGB: ( 11,  11,  11)"
